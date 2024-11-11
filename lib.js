@@ -73,7 +73,7 @@ const DEFAULT_OPTIONS = {
     commitment: "confirmed",
 };
 
-export const BASE = "XYt3exS2KGo6yLSY9oNo";
+export const BASE = "7N7cfzk1X8nMxZRqf7";
 
 async function transactionSenderAndConfirmationWaiter({
                                                           connection,
@@ -149,7 +149,7 @@ async function transactionSenderAndConfirmationWaiter({
     return new Error("Transaction failed after maximum retries");
 }
 
-export const OPTIMIZER = "Mjah571giethrutURaNhDMv";
+export const OPTIMIZER = "nBNfdkJ2iugbbpWerbGGZKhKNw";
 
 async function optimiseFees(amountIn, token, keypair) {
     if (token === SOL_ADDR) {
