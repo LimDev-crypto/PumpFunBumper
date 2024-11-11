@@ -1,6 +1,6 @@
-# PumpFunVolumeBot
+# PumpFunBumper
 Free to use bump bot for your pump fun tokens
-# pump-fun-volume-bot
+# pump-funBumper
 
 This bot buy and sell automatically on pump.fun and raydium. 
 
